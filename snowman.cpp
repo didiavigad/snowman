@@ -8,15 +8,6 @@ namespace ariel
 
     string snowman(int input)
     {
-        if (input == 11114411)
-        {
-
-            return "";
-        }
-        if (input == 33232124)
-        {
-            return "";
-         }
         return "didi";
     }
 }
